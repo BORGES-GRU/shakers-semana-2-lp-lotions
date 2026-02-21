@@ -14,7 +14,7 @@ Projeto dinâmico e responsivo, trazendo mais eficiência para o cliente consegu
 
 ## Como executar
 1. **Clone o repositório:**
-   git clone [https://github.com/seu-usuario/-semana-2-lp-lotions.git](https://github.com/seu-usuario/-semana-2-lp-lotions.git)
+   git clone [https://github.com/BORGES-GRU/-semana-2-lp-lotions.git]
 2. **Entre na Pasta:**
 cd -semana-2-lp-lotions
 3. **Instale as dependências:**
@@ -29,3 +29,6 @@ npm run dev
 [x] Otimização de imagens para carregamento rápido.
 
 [x] Seções editáveis via painel administrativo.
+
+## Video Explicativo
+[text](https://drive.google.com/file/d/1N436D7vhn4nGGSvOVjhTbnytKQ9MSsHc/view?usp=drive_link)
